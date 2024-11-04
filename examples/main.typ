@@ -1,9 +1,9 @@
 #import "@preview/touying:0.4.2": *
 #import "@preview/unify:0.6.0": num //标号
-#import "../themes/seu-beamer.typ" as theme-seu
+#import "../themes/jun-beamer.typ" as theme-jun
 
 // 首先注册PPT的基本信息
-#let s = theme-seu.register(aspect-ratio: "4-3") //4-3, 16-9
+#let s = theme-jun.register(aspect-ratio: "4-3") //4-3, 16-9
 #let s = (s.methods.info)(
   self: s,
   title: [This is a template for academic research presentation in Typeset],

@@ -1,4 +1,4 @@
-// modified to fit Jun's presentations
+// seu-beamer modified to fit Jun's presentations
 
 #import "@preview/touying:0.4.2": *
 #import "@preview/cuti:0.2.1": show-cn-fakebold // 用于中文假粗体
