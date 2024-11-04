@@ -1,13 +1,13 @@
 [package]
-name = "jun-pre"
+name = "AUS-Conf-Pre"
 version = "0.1.0"
-entrypoint = "themes/jun-beamer.typ"
+entrypoint = "themes/aus-beamer.typ"
 authors = ["JL-ghcoder <isjun.liu@gmail.com>"]
 license = "MIT"
-description = "Touying Slide Theme for Jun's Pre"
+description = "Slide Theme for Australian Conference Presentations"
 homepage = "https://github.com/JL-ghcoder/Typst-Pre-Template"
 repository = "https://github.com/JL-ghcoder/Typst-Pre-Template"
-keywords = ["touying", "slide", "theme", "presentation"]
+keywords = ["touying", "slide", "theme", "austrilia"]
 categories = ["presentation"]
 exclude = [".github/", "examples/"]
 
